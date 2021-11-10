@@ -4,7 +4,8 @@
 <br>
 📕 I'm a social scientist
 <br>
-🤖 I'm interested in data science
+🤖 I'm interested in data science and 
+ethical algorithm
 
 
 <div>
