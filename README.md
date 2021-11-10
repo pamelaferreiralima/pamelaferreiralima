@@ -13,7 +13,7 @@ ethical algorithm
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=pamelaferreiralima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelaferreiralima&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <h2>Languagens</h2>
+  <h2>Language</h2>
   <div style="display: flex;"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
