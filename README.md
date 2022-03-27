@@ -1,6 +1,6 @@
 ### Hi, I'm Pâmela  ✨
 
-🔭 I'm currently working as a front-end development instructor at @VainaWeb
+🔭 I'm currently student of big data for business intelligence at @fatec
 <br>
 📕 I'm a social scientist
 <br>
