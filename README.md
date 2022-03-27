@@ -1,6 +1,6 @@
 ### Hi, I'm Pâmela  ✨
 
-🔭 I'm currently student of big data for business intelligence at @fatec
+🔭 I'm currently student of big data for business at @fatec
 <br>
 📕 I'm a social scientist
 <br>
