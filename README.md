@@ -2,6 +2,7 @@
 
 🔭 I'm currently student of big data for business at @fatec
 <br>
+Pos-graduate student in AI at @usp
 📕 I'm a social scientist
 <br>
 🤖 I'm interested in data science and 
