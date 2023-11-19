@@ -1,8 +1,7 @@
 ### Hi, I'm Pâmela  ✨
 
-🔭 I'm currently student of big data for business at @fatec
 <br>
-👩🏽‍💻 Pos-graduate student in AI at @usp
+👩🏽‍💻 I'm currently Pos-graduate student in AI at @usp
 <br>
 📕 I'm a social scientist
 <br>
